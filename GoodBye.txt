@@ -1,1 +1,2 @@
-print("GoodBue")
+print("GoodBye")
+print("Good Nigth")
